@@ -12,4 +12,6 @@ https://github.com/LSergeyO/Devops/blob/main/netology.md.PNG
 https://github.com/LSergeyO/Devops/blob/main/netology.yaml.PNG  
 **Jsonnet**  
 https://github.com/LSergeyO/Devops/blob/main/netology.jsonnet.PNG  
+
 **Задание №2**  
+
